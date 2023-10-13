@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou estudante de Front End<br>Estou a procura de estagio<br>
+Sou estudante de Programação<br>Estou a procura de estagio<br>
 
 
 ## 🌐 Socials:
